@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dkwargit
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on security
-- 📫 How to reach me . No way
+- 👋 Hi, I’m Divyanshu Kumar.
+- 👀 I’m interested in movies.
+- 🌱 I’m currently pursuing Engineering. 
+- 💞️ I’m looking to collaborate in various domains.
+- 📫 How to reach me . Currently none..
 
 <!---
 dkwargit/dkwargit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
